@@ -1,1 +1,1 @@
-KINTO
+KINTO ONE
